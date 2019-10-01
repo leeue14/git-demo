@@ -8,5 +8,6 @@ public class test {
     public static void main(String[] args) {
         System.out.println("我是第一次提交");
         System.out.println("要删除");
+        System.out.println("要删除2");
     }
 }
